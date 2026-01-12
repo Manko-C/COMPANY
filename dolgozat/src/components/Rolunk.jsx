@@ -21,7 +21,7 @@ export default function AboutUs(){
         </header>
         <main>
             <div>
-                <p>{About.values.join(",")}</p>
+                <p>{About.values.join(", ")}</p>
             </div>
             <div>
                 <p>{About.description}</p>

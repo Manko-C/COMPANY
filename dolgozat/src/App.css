@@ -48,3 +48,12 @@
     justify-content: center; 
     align-items: center; 
 }
+.Navbar{   
+    position: fixed;   
+    top: 0;                
+    left: 0;              
+    width: 100%;           
+    color: white;
+    padding: 15px 20px;
+    z-index: 1000;        
+}
