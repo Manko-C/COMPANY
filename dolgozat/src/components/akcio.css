@@ -1,0 +1,8 @@
+.bizonyos_akcio{
+    margin-top: 25px;
+}
+.bizonyos_akcio>div{
+        display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
