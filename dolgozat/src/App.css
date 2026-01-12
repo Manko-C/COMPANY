@@ -54,6 +54,7 @@
     left: 0;              
     width: 100%;           
     color: white;
+    background-color: grey;
     padding: 15px 20px;
-    z-index: 1000;        
+    z-index: 1000;    
 }
