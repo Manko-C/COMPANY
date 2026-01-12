@@ -2,7 +2,9 @@
     margin-top: 25px;
 }
 .bizonyos_akcio>div{
-        display: flex;
+    display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    gap: 15px;
+
 }

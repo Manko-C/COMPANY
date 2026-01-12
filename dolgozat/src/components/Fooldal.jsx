@@ -28,7 +28,7 @@ export default function Fooldal(){
 </Carousel>
     </div>
     <div>
-        <button onClick={() => navigate(Home.cta.link)}>{Home.cta.text}</button>
+        <button onClick={() => navigate(Home.cta.link)} style={{marginTop : 10}}>{Home.cta.text}</button>
     </div>
         </main>
         </>

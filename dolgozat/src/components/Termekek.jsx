@@ -9,7 +9,7 @@ export default function TermekekLista(){
     return(
         <div className="termekekdiv">
         {Termekek.products.map((t, index) =>(
-    <Card style={{ width: '18rem' }} key={index}>
+    <Card style={{ width: '18rem'}} key={index}>
       <Card.Body>
         <Card.Title>{t.name} </Card.Title>
         <Card.Text>
